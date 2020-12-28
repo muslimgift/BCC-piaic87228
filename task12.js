@@ -1,1 +1,0 @@
-document.write("Total currency in PKR:"+((10*155)+(25*41)))
